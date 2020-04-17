@@ -1,4 +1,5 @@
 *~
+*.pyc
 YangJsonTools/env
 __pycache__
 YangJsonTools/import
